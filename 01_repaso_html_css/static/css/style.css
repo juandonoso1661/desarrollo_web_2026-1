@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Cascadia Mono", sans-serif;
+    ;
+    background-color: #DAD8D8;
+}
+
+
+.container{
+    background-color: #218714;
+    padding: 25px 0;
+    margin: 20px;
+}
+
+.titulo{
+    background-color: #218714;
+    text-align: center;
+    color: #ffff;
+}
+
+.cuerpo{
+    display: flex;
+    margin: 20px;
+}
+
+.parte-1{
+    background-color: #2C5DDC;
+    display: flex;
+}
